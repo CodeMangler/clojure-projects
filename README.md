@@ -12,7 +12,7 @@ Numbers
 
 [**Fibonacci Sequence**](https://github.com/CodeMangler/clojure-projects/blob/master/numbers/fibonacci.clj) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-**Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**Prime Factorization**](https://github.com/CodeMangler/clojure-projects/blob/master/numbers/prime-factorization.clj) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
 **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
